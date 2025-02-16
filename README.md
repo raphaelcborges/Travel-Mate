@@ -16,7 +16,7 @@ O **Travel-Mate** é um aplicativo de viagens inspirado no Tinder, onde casais p
 ---
 
 ## 🖼️ **Demonstração**
-<img src="https://your-image-url.com" width="600">
+<img src="public/ex1.png" width="600">
 
 ---
 
