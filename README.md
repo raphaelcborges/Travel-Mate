@@ -24,4 +24,8 @@ O **Travel-Mate** é um aplicativo de viagens inspirado no Tinder, onde casais p
 - 🚀 **React + Vite** (Frontend)
 - 🔥 **Firebase** (Autenticação e Banco de Dados)
 - 💅 **CSS + Tailwind** (Estilização)
-- 🖼️ **Unsplash API** (Imagens de destin
+
+
+## 📜 Licença
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
