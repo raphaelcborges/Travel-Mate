@@ -1,5 +1,9 @@
 # 🌍 Travel-Mate
 
+<p align="center">
+  <img src="https://your-logo-url.com" alt="Travel-Mate Logo" width="200">
+</p>
+
 ## ✈️ Sobre o Projeto
 O **Travel-Mate** é um aplicativo de viagens inspirado no Tinder, onde casais podem dar "match" em destinos ao redor do mundo e compará-los entre si para decidir a melhor viagem juntos! 💑✨  
 
@@ -9,6 +13,10 @@ O **Travel-Mate** é um aplicativo de viagens inspirado no Tinder, onde casais p
 - 🔗 **Link com seu parceiro(a)** para comparar destinos que ambos curtiram.  
 - 🏆 **Descubra os destinos mais compatíveis** e planeje sua viagem dos sonhos!  
 
+---
+
+## 🖼️ **Demonstração**
+<img src="https://your-image-url.com" width="600">
 
 ---
 
@@ -16,13 +24,4 @@ O **Travel-Mate** é um aplicativo de viagens inspirado no Tinder, onde casais p
 - 🚀 **React + Vite** (Frontend)
 - 🔥 **Firebase** (Autenticação e Banco de Dados)
 - 💅 **CSS + Tailwind** (Estilização)
-- 🖼️ **Unsplash API** (Imagens de destinos)
-- 💾 **Firestore Database** (Armazena destinos e curtidas)
-
----
-
-## 🚀 **Como Rodar o Projeto?**
-### 1️⃣ **Clone o Repositório**
-```sh
-git clone https://github.com/raphaelcborges/Travel-Mate.git
-cd Travel-Mate
+- 🖼️ **Unsplash API** (Imagens de destin
