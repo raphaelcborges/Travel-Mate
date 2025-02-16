@@ -1,7 +1,7 @@
 # 🌍 Travel-Mate
 
 <p align="center">
-  <img src="https://your-logo-url.com" alt="Travel-Mate Logo" width="200">
+  <img src="[https://your-logo-url.com](https://raw.githubusercontent.com/raphaelcborges/Travel-Mate/refs/heads/main/public/logo.png)" alt="Travel-Mate Logo" width="200">
 </p>
 
 ## ✈️ Sobre o Projeto
